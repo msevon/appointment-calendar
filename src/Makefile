@@ -1,5 +1,5 @@
-SRC_FILES=projekti.c
-HEADER_FILES=projekti.h
+SRC_FILES=appointments.c
+HEADER_FILES=appointments.h
 CFLAGS += -std=c99 -g -Wall -Wextra -Wno-missing-field-initializers
 
 all: main
@@ -11,5 +11,5 @@ clean:
 	rm -f main
 
 run: main
-	# Running our main function from file projekti.c
-	./projekti
+	# Running our main function from file appointments.c
+	./appointments

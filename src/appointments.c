@@ -3,7 +3,7 @@
 #include <string.h>
 #include <ctype.h>
 #include <stdbool.h>
-#include "projekti.h"
+#include "appointments.h"
 
 /*
 APPOINTMENT CALENDAR PROGRAM

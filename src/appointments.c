@@ -7,8 +7,6 @@
 
 /*
 APPOINTMENT CALENDAR PROGRAM
-Miku Sevón 729501
-ELEC-A7100 spring 2021 course project
 
 Commands:
         Add an appointment: A 'description' 'mm' 'dd' 'hh'
